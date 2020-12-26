@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-markdown-blog/static/css/main.bf8d1f1c.chunk.css",
+    "main.js": "/react-markdown-blog/static/js/main.f0decda2.chunk.js",
+    "main.js.map": "/react-markdown-blog/static/js/main.f0decda2.chunk.js.map",
+    "runtime-main.js": "/react-markdown-blog/static/js/runtime-main.b0c0c07f.js",
+    "runtime-main.js.map": "/react-markdown-blog/static/js/runtime-main.b0c0c07f.js.map",
+    "static/js/2.0d38f94e.chunk.js": "/react-markdown-blog/static/js/2.0d38f94e.chunk.js",
+    "static/js/2.0d38f94e.chunk.js.map": "/react-markdown-blog/static/js/2.0d38f94e.chunk.js.map",
+    "index.html": "/react-markdown-blog/index.html",
+    "static/css/main.bf8d1f1c.chunk.css.map": "/react-markdown-blog/static/css/main.bf8d1f1c.chunk.css.map",
+    "static/js/2.0d38f94e.chunk.js.LICENSE.txt": "/react-markdown-blog/static/js/2.0d38f94e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0c0c07f.js",
+    "static/js/2.0d38f94e.chunk.js",
+    "static/css/main.bf8d1f1c.chunk.css",
+    "static/js/main.f0decda2.chunk.js"
+  ]
+}
