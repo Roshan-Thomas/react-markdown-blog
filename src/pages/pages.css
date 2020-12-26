@@ -1,0 +1,25 @@
+.postlist {
+    width: 40%;
+    margin: auto;
+    text-align: center;
+}
+
+.post {
+    width: 40%;
+    margin: auto;
+}
+
+.page-content {
+    width: 40%;
+    margin: auto;
+    text-align: center;
+}
+
+.about h1 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.notfound {
+    text-align: center;
+}
